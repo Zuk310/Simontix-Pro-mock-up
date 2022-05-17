@@ -1,0 +1,68 @@
+* {
+  margin: 0px;
+}
+
+body {
+  background-color: #F3FBFE;
+}
+
+.simontixLogo {
+  height: auto;
+  width: auto;
+  max-height: 72px;
+  max-width: 250px;
+}
+
+.bigText {
+  font-size: 80px;
+  font-weight: 700;
+}
+
+.smallText {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.aboutImg {
+  max-height: 570px;
+}
+
+.aboutTitle {
+  font-size: 80px;
+}
+
+.aboutText {
+  font-size: 20px;
+}
+
+.coursesSectionTitle {
+  font-size: 70px;
+}
+
+.imgBorder {
+  border-radius: 15px;
+}
+
+.companiesSectionTitle {
+  font-size: 60px;
+}
+
+.environmentTitle {
+  font-size: 54px;
+  /*     max-height: 300px; */
+}
+
+.environmentInfoText {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.bi-plus-circle-fill {
+  font-size: 24px;
+}
+
+.whyTitle {
+  font-size: 60px;
+  font-weight: 600;
+}
+/*# sourceMappingURL=style.css.map */
